@@ -1,0 +1,16 @@
+{
+  "name": "luizlins/decorator",
+  "version": "1.0.0",
+  "description": "Projeto de estudo e apresentacao",
+  "autoload": {
+    "psr-4": {
+      "Luizlins\\Decorator\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Luiz Lins"
+    }
+  ],
+  "require": {}
+}
